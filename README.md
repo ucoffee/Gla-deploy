@@ -11,5 +11,5 @@
 **UTC**: `2025-12-14 07:09:12`  
 **北京时间**: `2025-12-14 15:09:12`  
 
-> ⚡ 此时间戳由 GitHub Actions 自动更新
 
+const SUB_PATH = process.env.SUB_PATH || 'ucoffee';    
